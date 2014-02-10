@@ -3,3 +3,8 @@
 ###################################################
 
 specialitylocal.test = ${specialitylocal.test}
+
+speciality {
+	debug_css = 1
+	debug_js = 1
+}
